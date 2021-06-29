@@ -2,7 +2,7 @@
 
 ### Unity VR on Android 
 
-![image](https://user-images.githubusercontent.com/50525581/123773390-eca38700-d8cc-11eb-9600-c6809c2431b4.png)
+![image](https://user-images.githubusercontent.com/50525581/123773900-44da8900-d8cd-11eb-8b5c-a6b922fd5be3.png)
 
 Using: Blender, Firebase, Google Cardboard SDK, Unity 3D
 
